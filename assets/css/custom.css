@@ -1,0 +1,14 @@
+body{
+    background-color: rgba(237, 240, 240, 0.575);
+    background-size: cover; 
+}
+
+.login{
+    width:100vw;
+    height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
